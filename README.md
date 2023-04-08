@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hnadrian, a CS college student at Cal Poly SLO.
 - 👀 I’m interested in coding and computer science.
-- 🌱 I’m currently learning Java, Python & Javascript
-- 💞️ I’m looking to collaborate on projects.
+- 💞️ I’m looking to collaborate on projects. Look through my profile to see what I've done
 - 📫 You can reach me through my email: hngt.adrian@gmail.com
 
 <!---
