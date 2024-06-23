@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @hnadrian, a CS college student at Cal Poly SLO.
-- 👀 I’m interested in coding and computer science.
+- 👋 Hi, I’m @hnadrian, a recent graduate with BS in Computer Science at Cal Poly SLO
 - 💞️ I’m looking to collaborate on projects. Look through my profile to see what I've done
 - 📫 You can reach me through my email: hngt.adrian@gmail.com
 
